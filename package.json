@@ -32,10 +32,10 @@
   "license": "MIT",
     "repository": {
     "type": "git",
-    "url": "https://github.com/TU-USUARIO/smart-fetch-retry.git"
+    "url": "https://github.com/DevMGWeb/smart-fetch-retry.git"
   },
   "bugs": {
-    "url": "https://github.com/TU-USUARIO/smart-fetch-retry/issues"
+    "url": "https://github.com/DevMGWeb/smart-fetch-retry/issues"
   },
-  "homepage": "https://github.com/TU-USUARIO/smart-fetch-retry#readme"
+  "homepage": "https://github.com/DevMGWeb/smart-fetch-retry#readme"
 }
