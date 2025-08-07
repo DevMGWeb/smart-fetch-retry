@@ -3,14 +3,14 @@
     "node-fetch": "^3.3.2"
   },
   "name": "smart-fetch-retry",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Una utilidad ligera para realizar peticiones fetch con reintentos automáticos y delay personalizable, compatible con Node.js y navegadores.",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "node test1.js"
   },
-"keywords": [
+  "keywords": [
     "fetch",
     "retry",
     "http",
@@ -30,7 +30,7 @@
   ],
   "author": "Miguel Gonzalez <gonzalezcuevasmiguelignacio@gmail.com>",
   "license": "MIT",
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/DevMGWeb/smart-fetch-retry.git"
   },
